@@ -167,12 +167,12 @@ Simply Cyber's new Rugged^TM lineup combines cutting-edge technology with sleek 
 
 #### Designs
 
-![Simple Cyber Poster 1](./Final/Media/Media-2.png)
+![Simple Cyber Poster 1](./Graphic-Design/Final/Media/Media-2.png)
 
-![Simple Cyber Poster 2](./Final/Media/Media-3.png)
+![Simple Cyber Poster 2](./Graphic-Design/Media/Media-3.png)
 
-![Simple Cyber Poster 3](./Final/Media/Media-4.png)
+![Simple Cyber Poster 3](./Graphic-Design/Media/Media-4.png)
 
-![Simple Cyber Poster 4](./Final/Media/Media-5.png)
+![Simple Cyber Poster 4](./Graphic-Design/Media/Media-5.png)
 
-![Simple Cyber Poster 5](./Final/Media/Media-6.png)
+![Simple Cyber Poster 5](./Graphic-Design/Media/Media-6.png)

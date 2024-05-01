@@ -112,11 +112,11 @@ Simply Cyber's new RuggedTM lineup combines cutting-edge technology with sleek d
 
 ##### Designs
 
-- ![Simple Cyber Poster 1](./Final/Media/Media-2.png)
-- ![Simple Cyber Poster 2](./Final/Media/Media-3.png)
-- ![Simple Cyber Poster 3](./Final/Media/Media-4.png)
-- ![Simple Cyber Poster 4](./Final/Media/Media-5.png)
-- ![Simple Cyber Poster 5](./Final/Media/Media-6.png)
+![Simple Cyber Poster 1](./Graphic-Design/Final/Media/Media-2.png)
+![Simple Cyber Poster 2](./Graphic-Design/Final/Media/Media-3.png)
+![Simple Cyber Poster 3](./Graphic-Design/Final/Media/Media-4.png)
+![Simple Cyber Poster 4](./Graphic-Design/Final/Media/Media-5.png)
+![Simple Cyber Poster 5](./Graphic-Design/Final/Media/Media-6.png)
 
 ## UX Case Study
 
@@ -140,12 +140,12 @@ Simple Cyber aims to address the challenge of providing tech enthusiasts, profes
 
 ##### User Problem
 
-![Simple Cyber User Problem](./Final/Simply-Cyber-User-Problem-Statements.png)
+![Simple Cyber User Problem](./User-Experience-Design/Final/Simply-Cyber-User-Problem-Statements.png)
 
 ##### User Flow
 
-![Simple Cyber User Problem](./Final/Simply-Cyber-User-Flow.png)
+![Simple Cyber User Flow](./User-Experience-Design/Final/Simply-Cyber-User-Flow.png)
 
 ##### Wireframe
 
-![Simple Cyber User Problem](./Final/Simply-Cyber-Wireframe.png)
+![Simple Cyber Wireframe](./User-Experience-Design/Final/Simply-Cyber-Wireframe.png)

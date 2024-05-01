@@ -24,12 +24,12 @@ Simple Cyber aims to address the challenge of providing tech enthusiasts, profes
 
 ### User Problem
 
-![Simple Cyber User Problem](./Final/Simply-Cyber-User-Problem-Statements.png)
+![Simple Cyber User Problem](./User-Experience-Design/Final/Simply-Cyber-User-Problem-Statements.png)
 
 ### User Flow
 
-![Simple Cyber User Problem](./Final/Simply-Cyber-User-Flow.png)
+![Simple Cyber User Problem](./User-Experience-Design/Final/Simply-Cyber-User-Flow.png)
 
 ### Wireframe
 
-![Simple Cyber User Problem](./Final/Simply-Cyber-Wireframe.png)
+![Simple Cyber User Problem](./User-Experience-Design/Final/Simply-Cyber-Wireframe.png)
