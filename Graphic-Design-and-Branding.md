@@ -27,7 +27,7 @@
 
 ## Graphic Design and Brand Case Study
 
-## Keep it Simply, Keep it Cyber
+## Keep it Simple, Keep it Cyber
 
 <p>Simply Cyber is a technology company that produces rugged laptops at scale as well as producing high-quality custom Rugged Laptops. Rugged Laptops are a highly customizable and portable computer system. These systems are packaged in a sleek, durable exterior that is subtle as much as it is stylish. These PCs allow the user to tackle tough tasks such as data analysis or report generation in an outoor environment or visualizing complex environments on a construction site.
 </p>
@@ -161,18 +161,18 @@ Simply Cyber's new Rugged^TM lineup combines cutting-edge technology with sleek 
 
 #### Logo Design
 
-![Simple Cyber Logo](./Final/Media/Media-1.png)
+![Simply Cyber Logo](./Graphic-Design/Final/Media/Media-1.png)
 
 - Create a modern and sleek logo that reflects Simply Cyber's commitment to simplicity, innovation, and style. It should incorporate elements that symbolize technology, portability, and versatility.
 
 #### Designs
 
-![Simple Cyber Poster 1](./Graphic-Design/Final/Media/Media-2.png)
+![Simply Cyber Poster 1](./Graphic-Design/Final/Media/Media-2.png)
 
-![Simple Cyber Poster 2](./Graphic-Design/Media/Media-3.png)
+![Simply Cyber Poster 2](./Graphic-Design/Media/Media-3.png)
 
-![Simple Cyber Poster 3](./Graphic-Design/Media/Media-4.png)
+![Simply Cyber Poster 3](./Graphic-Design/Media/Media-4.png)
 
-![Simple Cyber Poster 4](./Graphic-Design/Media/Media-5.png)
+![Simply Cyber Poster 4](./Graphic-Design/Media/Media-5.png)
 
-![Simple Cyber Poster 5](./Graphic-Design/Media/Media-6.png)
+![Simply Cyber Poster 5](./Graphic-Design/Media/Media-6.png)

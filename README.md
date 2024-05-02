@@ -1,6 +1,6 @@
 # Simply Cyber
 
-[Simply Cyber](https://simply-cyber.webflow.io/) is a technology company specializing in rugged laptops and portable computing solutions. This README.md provides an overview of their graphic design and brand case study, along with a UX case study titled "Simple Cyber's Rugged Evolution."
+[Simply Cyber](https://simply-cyber.webflow.io/) is a technology company specializing in rugged laptops and portable computing solutions. This README.md provides an overview of their graphic design and brand case study, along with a UX case study titled "Simply Cyber's Rugged Evolution."
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@
     - [Designs](#designs)
 - [UX Case Study](#ux-case-study)
   - [References](#references-1)
-  - [Simple Cyber's Rugged Evolution](#simple-cybers-rugged-evolution)
+  - [Simply Cyber's Rugged Evolution](#simple-cybers-rugged-evolution)
   - [Introduction/Overview](#introductionoverview)
     - [What is the user problem?](#what-is-the-user-problem)
     - [What tools and methods did you use?](#what-tools-and-methods-did-you-use)
@@ -108,29 +108,29 @@ Simply Cyber's new RuggedTM lineup combines cutting-edge technology with sleek d
 
 ##### Logo Design
 
-![Simple Cyber Logo](./Final/Media/Media-1.png)
+![Simply Cyber Logo](./Graphic-Design/Final/Media/Media-1.png)
 
 ##### Designs
 
-![Simple Cyber Poster 1](./Graphic-Design/Final/Media/Media-2.png)
-![Simple Cyber Poster 2](./Graphic-Design/Final/Media/Media-3.png)
-![Simple Cyber Poster 3](./Graphic-Design/Final/Media/Media-4.png)
-![Simple Cyber Poster 4](./Graphic-Design/Final/Media/Media-5.png)
-![Simple Cyber Poster 5](./Graphic-Design/Final/Media/Media-6.png)
+![Simply Cyber Poster 1](./Graphic-Design/Final/Media/Media-2.png)
+![Simply Cyber Poster 2](./Graphic-Design/Final/Media/Media-3.png)
+![Simply Cyber Poster 3](./Graphic-Design/Final/Media/Media-4.png)
+![Simply Cyber Poster 4](./Graphic-Design/Final/Media/Media-5.png)
+![Simply Cyber Poster 5](./Graphic-Design/Final/Media/Media-6.png)
 
 ## UX Case Study
 
-### Simple Cyber's Rugged Evolution
+### Simply Cyber's Rugged Evolution
 
 #### Introduction/Overview
 
-As the creator of Simple Cyber, I spearheaded the project "Rugged Evolution: Redefining Portable Computing." I covered the whole process which it encompassed leading the design process from ideation to implementation
+As the creator of Simply Cyber, I spearheaded the project "Rugged Evolution: Redefining Portable Computing." I covered the whole process which it encompassed leading the design process from ideation to implementation
 
 .
 
 ##### What is the user problem?
 
-Simple Cyber aims to address the challenge of providing tech enthusiasts, professionals working in rugged environments, gamers, and businesses with a versatile and high-performance portable computing solution. The existing options in the market lack the perfect balance between performance, durability, and portability, leaving users compromising on one or more aspects of their computing needs. Users require a RuggedTM solution that seamlessly integrates into their workflows, offering robust performance, rugged durability, and effortless portability without sacrificing on functionality or design aesthetics. Therefore, the defined problem is to design and develop a Cyberdeck lineup that meets the diverse needs of users across different industries while delivering exceptional performance, durability, and portability in a sleek and stylish package.
+Simply Cyber aims to address the challenge of providing tech enthusiasts, professionals working in rugged environments, gamers, and businesses with a versatile and high-performance portable computing solution. The existing options in the market lack the perfect balance between performance, durability, and portability, leaving users compromising on one or more aspects of their computing needs. Users require a RuggedTM solution that seamlessly integrates into their workflows, offering robust performance, rugged durability, and effortless portability without sacrificing on functionality or design aesthetics. Therefore, the defined problem is to design and develop a Cyberdeck lineup that meets the diverse needs of users across different industries while delivering exceptional performance, durability, and portability in a sleek and stylish package.
 
 ##### What tools and methods did you use?
 
@@ -140,12 +140,12 @@ Simple Cyber aims to address the challenge of providing tech enthusiasts, profes
 
 ##### User Problem
 
-![Simple Cyber User Problem](./User-Experience-Design/Final/Simply-Cyber-User-Problem-Statements.png)
+![Simply Cyber User Problem](./User-Experience-Design/Final/Simply-Cyber-User-Problem-Statements.png)
 
 ##### User Flow
 
-![Simple Cyber User Flow](./User-Experience-Design/Final/Simply-Cyber-User-Flow.png)
+![Simply Cyber User Flow](./User-Experience-Design/Final/Simply-Cyber-User-Flow.png)
 
 ##### Wireframe
 
-![Simple Cyber Wireframe](./User-Experience-Design/Final/Simply-Cyber-Wireframe.png)
+![Simply Cyber Wireframe](./User-Experience-Design/Final/Simply-Cyber-Wireframe.png)
